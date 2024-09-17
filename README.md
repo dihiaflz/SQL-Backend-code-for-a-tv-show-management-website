@@ -1,4 +1,4 @@
-# Backend-code-for-a-tv-show-management-website-SQL-
+# SQL-Backend-code-for-a-tv-show-management-website
 This Git repository hosts the backend code for an advanced admin panel dedicated to managing the operations of the iconic TV show "Question pour un Champion." With a robust set of functionalities, the admin panel serves as a comprehensive tool for efficiently overseeing various aspects of the show.
 
 Key Features:
